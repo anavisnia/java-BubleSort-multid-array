@@ -61,7 +61,7 @@ public class Antras {
         
         // ************************************ antras namu darbas *********************************
         
-        
+        System.out.println("");
         int[] m = {1, 2, 3, 4, 5}; // masyvas masyve
         
         int[][] rez = new int[m.length][m.length]; // masyvas tokio dydzio, kiek reikia, tik bus uzpildytas nuliais 
