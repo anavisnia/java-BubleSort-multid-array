@@ -57,6 +57,7 @@ public class Antras {
         for (int i = 0; i < masyvas.length; i++) {
             System.out.print(masyvas[i] + " ");
         }
+        System.out.println("------------");
         
         
         // ************************************ antras namu darbas *********************************
